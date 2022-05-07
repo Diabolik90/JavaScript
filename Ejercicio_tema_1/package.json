@@ -1,0 +1,16 @@
+{
+  "name": "first-exercise",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Javascript con Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firstexercise",
+    "openbootcamp"
+  ],
+  "author": "Diabolik",
+  "license": "ISC"
+}
