@@ -2,7 +2,8 @@
  * Ejercicio tema 1
  * 
  * Enunciado del ejercicio: 
- * Crea un archivo JavaScript donde muestres por consola la siguiente frase: “Estoy realizando el curso de JavaScript, espero aprender mucho”.
+ * Crea un nuevo proyecto de Node, y dentro del package.json crea un script que muestre por pantalla 
+ * "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo".
  */
 
-console.log("Estoy realizando el curso de JavaScript, espero aprender mucho");
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
